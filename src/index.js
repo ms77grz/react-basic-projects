@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 // import your current project here
-import App from './projects/19-stock-photos/App';
+import App from './projects/20-dark-mode/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
